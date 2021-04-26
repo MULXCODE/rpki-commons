@@ -49,7 +49,7 @@
         <sonar.dynamicAnalysis>reuseReports</sonar.dynamicAnalysis>
         <sonar.clover.reportPath>target/site/clover/clover.xml</sonar.clover.reportPath>
         <xstream.version>1.4.11.1</xstream.version>
-        <commons-io.version>2.6</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <commons-lang.version>2.6</commons-lang.version>
     </properties>
 
